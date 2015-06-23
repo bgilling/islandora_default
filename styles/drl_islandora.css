@@ -529,4 +529,7 @@ body.no-sidebars .islandora-large-image-sidebar ul li {
 	margin-bottom: .3em;
 	}
 
+.islandora-internet-archive-bookreader #BRtoolbar .logo, .islandora-internet-archive-bookreader #BRtoolbar #BRreturn {
+	display: none;
+	}
 /* ________ EXPERIMENTATION ________ */
